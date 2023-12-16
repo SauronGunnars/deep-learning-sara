@@ -2,3 +2,4 @@ numpy
 tensorflow
 matplotlib
 split-folders
+keras-tuner

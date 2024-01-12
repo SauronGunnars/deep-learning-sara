@@ -3,3 +3,4 @@ tensorflow
 pandas
 nltk
 ssl
+sklearn

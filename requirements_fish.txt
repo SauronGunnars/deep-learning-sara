@@ -1,0 +1,5 @@
+tensorflow
+os
+PIL
+matplotlib
+keras_tuner
